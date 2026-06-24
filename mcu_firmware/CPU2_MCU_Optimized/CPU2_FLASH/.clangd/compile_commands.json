@@ -1,0 +1,22 @@
+[
+   {
+      "directory" : "E:/CSIR/medley/MCU/CPU2_MCU_Optimized/CPU2_FLASH",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/CPU2_MCU_Optimized\" -I\"E:/CSIR/medley/MCU/CPU2_MCU_Optimized/device\" -I\"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -D_FLASH -DDEBUG -DCPU2",
+      "file"      : "E:/CSIR/medley/MCU/CPU2_MCU_Optimized/device/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/CPU2_MCU_Optimized/CPU2_FLASH",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/CPU2_MCU_Optimized\" -I\"E:/CSIR/medley/MCU/CPU2_MCU_Optimized/device\" -I\"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -D_FLASH -DDEBUG -DCPU2 -xc",
+      "file"      : "E:/CSIR/medley/MCU/CPU2_MCU_Optimized/device/device.c"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/CPU2_MCU_Optimized/CPU2_FLASH",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/CPU2_MCU_Optimized\" -I\"E:/CSIR/medley/MCU/CPU2_MCU_Optimized/device\" -I\"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -D_FLASH -DDEBUG -DCPU2 -xc",
+      "file"      : "E:/CSIR/medley/MCU/CPU2_MCU_Optimized/empty_driverlib_main_cpu2.c"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/CPU2_MCU_Optimized/CPU2_FLASH",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/CPU2_MCU_Optimized\" -I\"E:/CSIR/medley/MCU/CPU2_MCU_Optimized/device\" -I\"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -D_FLASH -DDEBUG -DCPU2 -xc",
+      "file"      : "E:/CSIR/medley/MCU/CPU2_MCU_Optimized/nir_weights.c"
+   }
+]

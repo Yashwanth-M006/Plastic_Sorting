@@ -1,0 +1,22 @@
+[
+   {
+      "directory" : "E:/CSIR/medley/MCU/CPU1_MCU_Optimized/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/CPU1_MCU_Optimized\" -I\"E:/CSIR/medley/MCU/CPU1_MCU_Optimized/device\" -I\"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1",
+      "file"      : "E:/CSIR/medley/MCU/CPU1_MCU_Optimized/device/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/CPU1_MCU_Optimized/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/CPU1_MCU_Optimized\" -I\"E:/CSIR/medley/MCU/CPU1_MCU_Optimized/device\" -I\"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -xc",
+      "file"      : "E:/CSIR/medley/MCU/CPU1_MCU_Optimized/device/device.c"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/CPU1_MCU_Optimized/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/CPU1_MCU_Optimized\" -I\"E:/CSIR/medley/MCU/CPU1_MCU_Optimized/device\" -I\"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -xc",
+      "file"      : "E:/CSIR/medley/MCU/CPU1_MCU_Optimized/empty_driverlib_main_cpu1.c"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/CPU1_MCU_Optimized/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/CPU1_MCU_Optimized\" -I\"E:/CSIR/medley/MCU/CPU1_MCU_Optimized/device\" -I\"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -xc",
+      "file"      : "E:/CSIR/medley/MCU/CPU1_MCU_Optimized/nir_weights.c"
+   }
+]

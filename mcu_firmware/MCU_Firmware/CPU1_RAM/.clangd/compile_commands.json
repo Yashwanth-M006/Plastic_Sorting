@@ -1,0 +1,32 @@
+[
+   {
+      "directory" : "E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/MCU_Firmware\" -I\"E:/CSIR/medley/MCU/MCU_Firmware/device\" -I\"C:/TI/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM/syscfg\" -DF2837xD=1",
+      "file"      : "E:/CSIR/medley/MCU/MCU_Firmware/device/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/MCU_Firmware\" -I\"E:/CSIR/medley/MCU/MCU_Firmware/device\" -I\"C:/TI/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "E:/CSIR/medley/MCU/MCU_Firmware/device/device.c"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/MCU_Firmware\" -I\"E:/CSIR/medley/MCU/MCU_Firmware/device\" -I\"C:/TI/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "E:/CSIR/medley/MCU/MCU_Firmware/nir_inference_main.c"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/MCU_Firmware\" -I\"E:/CSIR/medley/MCU/MCU_Firmware/device\" -I\"C:/TI/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "E:/CSIR/medley/MCU/MCU_Firmware/nir_weights.c"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/MCU_Firmware\" -I\"E:/CSIR/medley/MCU/MCU_Firmware/device\" -I\"C:/TI/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM/syscfg/board.c"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/MCU_Firmware\" -I\"E:/CSIR/medley/MCU/MCU_Firmware/device\" -I\"C:/TI/C2000Ware_26_00_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM/syscfg\" -DF2837xD=1 -xc",
+      "file"      : "E:/CSIR/medley/MCU/MCU_Firmware/CPU1_RAM/syscfg/c2000ware_libraries.c"
+   }
+]

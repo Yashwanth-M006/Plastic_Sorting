@@ -1,0 +1,17 @@
+[
+   {
+      "directory" : "E:/CSIR/medley/MCU/Preprocessing/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/Preprocessing\" -I\"E:/CSIR/medley/MCU/Preprocessing/device\" -I\"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"E:/CSIR/medley/MCU/Preprocessing/CPU1_RAM/syscfg\"",
+      "file"      : "E:/CSIR/medley/MCU/Preprocessing/device/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/Preprocessing/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/Preprocessing\" -I\"E:/CSIR/medley/MCU/Preprocessing/device\" -I\"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"E:/CSIR/medley/MCU/Preprocessing/CPU1_RAM/syscfg\" -xc",
+      "file"      : "E:/CSIR/medley/MCU/Preprocessing/device/device.c"
+   },
+   {
+      "directory" : "E:/CSIR/medley/MCU/Preprocessing/CPU1_RAM",
+      "command"   : "clang++ -I\"E:/CSIR/medley/MCU/Preprocessing\" -I\"E:/CSIR/medley/MCU/Preprocessing/device\" -I\"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/\" -I\"E:/ccs/tools/compiler/ti-cgt-c2000_25.11.0.LTS/include\" -DDEBUG -DCPU1 -I\"E:/CSIR/medley/MCU/Preprocessing/CPU1_RAM/syscfg\" -xc",
+      "file"      : "E:/CSIR/medley/MCU/Preprocessing/empty_driverlib_main.c"
+   }
+]

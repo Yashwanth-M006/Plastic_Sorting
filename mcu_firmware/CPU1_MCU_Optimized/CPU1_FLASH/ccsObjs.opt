@@ -1,0 +1,7 @@
+"./empty_driverlib_main_cpu1.obj"
+"./nir_weights.obj"
+"./device/F2837xD_CodeStartBranch.obj"
+"./device/device.obj"
+"../2837xD_FLASH_lnk_cpu1.cmd"
+"C:/TI/C2000Ware_26_01_00_00/driverlib/f2837xd/driverlib/ccs/Debug/driverlib.lib"
+-llibc.a
